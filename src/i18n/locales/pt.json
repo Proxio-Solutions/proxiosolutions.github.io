@@ -1,0 +1,31 @@
+{
+    "nav": {
+        "home": "Início",
+        "about": "Sobre Nós",
+        "services": "Serviços",
+        "contact": "Contacto",
+        "cta": "Falar Connosco"
+    },
+    "home": {
+        "welcome": "Bem-vindo à",
+        "description": "A construir o futuro digital com inovação e excelência.",
+        "getStarted": "Começar"
+    },
+    "about": {
+        "title": "Sobre Nós",
+        "description": "Somos uma equipa apaixonada por transformar ideias complexas em soluções digitais de excelência, impulsionando o futuro do seu negócio."
+    },
+    "services": {
+        "title": "Os Nossos Serviços",
+        "description": "Desenhamos, desenvolvemos e escalamos produtos tecnológicos à medida das suas necessidades, com foco na performance e inovação."
+    },
+    "contact": {
+        "title": "Fale Connosco",
+        "description": "Tem um projeto em mente ou precisa de uma consultoria tecnológica? Estamos prontos para ajudar a tornar a sua visão realidade."
+    },
+    "notFound": {
+        "title": "Página não encontrada",
+        "description": "Desculpe, não conseguimos encontrar a página que procura.",
+        "backHome": "Voltar ao início"
+    }
+}

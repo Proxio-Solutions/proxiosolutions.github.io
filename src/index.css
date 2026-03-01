@@ -1,0 +1,15 @@
+@import "tailwindcss";
+
+@theme {
+  --font-sans: "Plus Jakarta Sans", sans-serif;
+
+  --color-proxio-darker: #ffffff;
+  --color-proxio-dark: #f8fafc;
+  --color-proxio-dark-border: #e2e8f0;
+
+  --color-proxio-accent: #2563eb;
+  --color-proxio-accent-hover: #1d4ed8;
+
+  --color-proxio-text-main: #0f172a;
+  --color-proxio-text-muted: #64748b;
+}
