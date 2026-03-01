@@ -1,0 +1,19 @@
+{
+    "nav": {
+        "home": "Início",
+        "about": "Sobre Nós",
+        "services": "Serviços",
+        "contact": "Contacto",
+        "cta": "Falar Connosco"
+    },
+    "home": {
+        "welcome": "Bem-vindo à",
+        "description": "A construir o futuro digital com inovação e excelência.",
+        "getStarted": "Começar"
+    },
+    "notFound": {
+        "title": "Página não encontrada",
+        "description": "Desculpe, não conseguimos encontrar a página que procura.",
+        "backHome": "Voltar ao início"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "nav": {
+        "home": "Home",
+        "about": "About Us",
+        "services": "Services",
+        "contact": "Contact",
+        "cta": "Let's Talk"
+    },
+    "home": {
+        "welcome": "Welcome to",
+        "description": "Building the digital future with innovation and excellence.",
+        "getStarted": "Get Started"
+    },
+    "notFound": {
+        "title": "Page not found",
+        "description": "Sorry, we couldn't find the page you're looking for.",
+        "backHome": "Go back home"
+    }
+}
