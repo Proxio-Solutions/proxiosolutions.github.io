@@ -11,6 +11,18 @@
         "description": "Building the digital future with innovation and excellence.",
         "getStarted": "Get Started"
     },
+    "about": {
+        "title": "About Us",
+        "description": "We are a passionate team dedicated to transforming complex ideas into digital excellence, driving the future of your business."
+    },
+    "services": {
+        "title": "Our Services",
+        "description": "We design, develop, and scale custom technological products tailored to your needs, focusing on performance and innovation."
+    },
+    "contact": {
+        "title": "Contact Us",
+        "description": "Have a project in mind or need tech consulting? We are ready to help turn your vision into reality."
+    },
     "notFound": {
         "title": "Page not found",
         "description": "Sorry, we couldn't find the page you're looking for.",

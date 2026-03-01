@@ -6,26 +6,21 @@ import "./index.css";
 
 import App from "./App.tsx";
 import About from "./pages/About.tsx";
+import Contact from "./pages/Contact.tsx";
 import Home from "./pages/Home.tsx";
 import NotFound from "./pages/NotFound.tsx";
+import Services from "./pages/Services.tsx";
 
 const router = createBrowserRouter([
   {
     path: "/",
     element: <App />,
     children: [
-      {
-        path: "/",
-        element: <Home />,
-      },
-      {
-        path: "/about",
-        element: <About />,
-      },
-      {
-        path: "*",
-        element: <NotFound />,
-      },
+      { path: "/", element: <Home /> },
+      { path: "/about", element: <About /> },
+      { path: "/services", element: <Services /> },
+      { path: "/contact", element: <Contact /> },
+      { path: "*", element: <NotFound /> },
     ],
   },
 ]);
